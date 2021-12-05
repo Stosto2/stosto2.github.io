@@ -20,6 +20,7 @@ if (isAwesome){
   return true
 }
 ```
+{% include carousel1.html height="50" unit="%" duration="7" %}
 
 ### 2. Assess assumptions on which statistical inference will be based
 

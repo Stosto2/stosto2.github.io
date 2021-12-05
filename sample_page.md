@@ -7,8 +7,6 @@ Co-organised with sientists from the Uiversity Adolfo Ibanez, this workshop-exhi
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [![uh-oh!](images/dummy_thumbnail.jpg?raw=true)](https://example.com)
 
-{% include carousel.html height="50" unit="%" duration="7" %}
-
 **Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
@@ -20,7 +18,6 @@ if (isAwesome){
   return true
 }
 ```
-{% include carousel1.html height="50" unit="%" duration="7" %}
 
 ### 2. Assess assumptions on which statistical inference will be based
 
